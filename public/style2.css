@@ -1,0 +1,66 @@
+html{
+    scroll-behavior: smooth;
+
+}
+body{
+    font-family: 'Oswald', sans-serif;
+
+}
+h1{
+    text-transform: uppercase;
+}
+
+.offset:before{
+    height:4rem;
+    margin-top:-4em;
+    display:block;
+}
+.navbar{
+    text-transform:uppercase; 
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    background: #1d2530bb!important;
+}
+
+
+
+.testing h2{
+    text-transform:uppercase ;
+}
+.ball{
+    background-image:url('./home_images/2-21779_pixel-art-space-background-8-bit-black-background.jpg') ;
+    border: rgb(247, 111, 57) solid;
+    opacity:0;
+}
+
+#pxMan{
+ opacity:0;
+}
+
+.imgGp{
+    width:100%
+}
+.imgGp i{
+    opacity:0;    
+}
+
+.underCons img{
+    width:80%;
+    display:none;
+}
+
+#reason {
+    position: relative;
+}
+#bigStar{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top:120px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 200px;
+    color: rgb(253, 201, 69);
+}
+

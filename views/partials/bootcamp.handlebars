@@ -1,0 +1,30 @@
+<div id="reason" class=" gallery-block text-center ">
+    <div class="heading">
+        <h3 class='font-italic text-uppercase card-header'> Learned From Bootcamp</h3>
+        <div class="heading-underline"></div>
+    </div>
+
+    <div class="ball row mx-0 my-2 p-2">
+        {{#each bootcamp}}
+        <div class='col-md-3'>
+            <div class="card  border-secondary ">
+                <div class="card-body text-secondary">
+                    <h5 class="card-title">{{title}}</h5>
+                    <p class="card-text">{{content}}</p>
+                </div>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+
+    <div class='text-center' id="bigStar">
+        <i class="fas fa-star"></i>
+    </div>
+    <div class="imgGp">
+        <i class="col-md-2  fas fa-child fa-3x faa-pulse animated"></i>
+        <i class="col-md-2  fas fa-child fa-3x faa-pulse animated"></i>
+        <img id="pxMan" src="home_images/Screen Shot 2020-04-16 at 1.55.52 PM.png">
+        <i class="col-md-2  fas fa-child fa-3x faa-pulse animated"></i>
+        <i class="col-md-2  fas fa-child fa-3x faa-pulse animated"></i>
+    </div>
+</div>
