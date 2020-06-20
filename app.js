@@ -21,9 +21,10 @@ app.get('/', (req, res) => {
     res.render('main', { layout: false, work: info.workExp, edu: info.education, extra: info.extra, bootcamp: info.bootcamp })
 })
 
-app.post('/', (req, res) => {
+app.post('/', async (req, res) => {
     let contact = JSON.stringify(req.body)
-fs.writeFile('info.json',contact,(err)=>{
+
+await fs.writeFile('info.json',contact,(err)=>{
     if (err) { throw err }
     console.log('success')
 })
