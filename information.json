@@ -1,77 +1,105 @@
 [
-    {
-        "workExp": [
-            {
-                "company": "Census and Statistic Department (07/2016 - 08/2016)",
-                "title": "Enumerator ",
-                "contents": "A one month short-term agreement, assist in conducting the 2016 population By-census, visit family member and collect personal data"
-            },
-            {
-                "company": "Sinomix & Co. CPAs (07/2018 - 01/2019)",
-                "title": "Auditor Trainee ",
-                "contents": "Reviewing the accounts, financial records, documentations of companies to ensure the validity of their financial report. Collect, examine and confirm evidences that are provided by clients. Draft the audit report for certified auditor"
-            },
-            {
-                "company": "Wistron Information Technology and Services Limited (02/2019 - 05/2019)",
-                "title": "Data Analyst ",
-                "contents": "Grading the quality of soundtrack based on guideline, learning how."
-            },
-            {
-                "company": "C&W (CPA) Limited (07/2019 - 03/2020)",
-                "title": "Junior Auditor ",
-                "contents": "Basically the same as an auditor traniee."
-            }
-        ],
-        "education": [
-            {
-                "organ": "HKDSE",
-                "details": "Chinese:3, English:3, Mathematic:3, Liberal Studies:3, Chemistry:3, Economic:4, Biology:4"
-            },
-            {
-                "course": "Associate degree in Business Administration",
-                "organ": "HKUSPACE (2014 - 2016)"
-            },
-            {
-                "course": "Bachelor degree in professional accounting (Hons)",
-                "organ": "The Open university of Hong Kong (2016 - 2018)"
-            },
-            {
-                "course": "Full time web development course",
-                "organ": "Xccelerate (04/2020 - present)"
-            }
-        ],
-        "extra": [
-            {
-                "title": "Japanese-Language Proficiency Test N2",
-                "organ": "Society of Japanese Language Education Hong Kong"
-            },
-            {
-                "title": "Bronze Medallion",
-                "organ": "The Hong Kong Life Saving Society"
-            },
-            {
-                "title": "Occupational First Aid ",
-                "organ": "Hong Kong Society of Professional Medical Care"
-            },
-            {
-                "title": "Grade 5 Music Theory",
-                "organ": "The Associated Board of the Royal Schools of Music"
-            },
-            {
-                "title": "Taekwondo Blue Belt",
-                "organ": "Hong Kong Taekwondo Association"
-            }
-        ],
-        "bootcamp":[
-            {"title":"HTML CSS Javascript Bootstrap Handlebars","content":" Basic structure of Web page. Control layout, DOM elements' behaviour."},
-            {"title":"jQuery","content":"A javascript library which simplified js programming"},
-            {"title":"AJAX","content":"Fetching data from a web server, updating part of the web without reloading the whole page"},
-            {"title":"Node.js NPM","content":"Open Source server environment, allowing us to write js in server. Install different tools to help back-end development. "},
-            {"title":"RESTful API JSON","content":"Use of standard verbs get, post, put, delete to communicate with server side and URIs for pointing to the resources. The data comes back in form of JSON."},
-            {"title":"SQL Postgresql Knex","content":"A database system, a standard langauge for storing, manipulating and retreiving data, a database query builder for Node.js."},
-            {"title":"Jest Redis","content":"Javascript testing frame work. In-memory key-values database."},
-            {"title":"Passport","content":"Authentication middleware for Node.js, auth methods include local, facebook and google strategies"}
-        ]
-
-    }
+  {
+    "workExp": [
+      {
+        "company": "Census and Statistic Department (07/2016 - 08/2016)",
+        "title": "Enumerator ",
+        "contents": "A one month short-term agreement, assist in conducting the 2016 population By-census, visit family member and collect personal data"
+      },
+      {
+        "company": "Sinomix & Co. CPAs (07/2018 - 01/2019)",
+        "title": "Auditor Trainee ",
+        "contents": "Reviewing the accounts, financial records, documentations of companies to ensure the validity of their financial report. Collect, examine and confirm evidences that are provided by clients. Draft the audit report for certified auditor"
+      },
+      {
+        "company": "Wistron Information Technology and Services Limited (02/2019 - 05/2019)",
+        "title": "Data Analyst ",
+        "contents": "Grading the quality of soundtrack based on guideline, learning how."
+      },
+      {
+        "company": "C&W (CPA) Limited (07/2019 - 03/2020)",
+        "title": "Junior Auditor ",
+        "contents": "Basically the same as an auditor traniee."
+      },
+      {
+        "company": "RH-Software Limited (08/2020 - present)",
+        "title": "Software Engineer Intern",
+        "contents": "To help with the front-end and functionality development of company website, the company also outsource different application development project to a professional team, and offer us chances to assist in projects."
+      }
+    ],
+    "education": [
+      {
+        "organ": "HKDSE",
+        "details": "Chinese:3, English:3, Mathematic:3, Liberal Studies:3, Chemistry:3, Economic:4, Biology:4"
+      },
+      {
+        "course": "Associate degree in Business Administration",
+        "organ": "HKUSPACE (2014 - 2016)"
+      },
+      {
+        "course": "Bachelor degree in professional accounting (Hons)",
+        "organ": "The Open university of Hong Kong (2016 - 2018)"
+      },
+      {
+        "course": "Full time web development course",
+        "organ": "Xccelerate (04/2020 - 08/2020)"
+      }
+    ],
+    "extra": [
+      {
+        "title": "Japanese-Language Proficiency Test N2",
+        "organ": "Society of Japanese Language Education Hong Kong"
+      },
+      {
+        "title": "Bronze Medallion",
+        "organ": "The Hong Kong Life Saving Society"
+      },
+      {
+        "title": "Occupational First Aid ",
+        "organ": "Hong Kong Society of Professional Medical Care"
+      },
+      {
+        "title": "Grade 5 Music Theory",
+        "organ": "The Associated Board of the Royal Schools of Music"
+      },
+      {
+        "title": "Taekwondo Blue Belt",
+        "organ": "Hong Kong Taekwondo Association"
+      }
+    ],
+    "bootcamp": [
+      {
+        "title": "HTML CSS Javascript Bootstrap Handlebars",
+        "content": " Basic structure of Web page. Control layout, DOM elements' behaviour."
+      },
+      {
+        "title": "jQuery",
+        "content": "A javascript library which simplified js programming"
+      },
+      {
+        "title": "AJAX",
+        "content": "Fetching data from a web server, updating part of the web without reloading the whole page"
+      },
+      {
+        "title": "Node.js NPM",
+        "content": "Open Source server environment, allowing us to write js in server. Install different tools to help back-end development. "
+      },
+      {
+        "title": "RESTful API JSON",
+        "content": "Use of standard verbs get, post, put, delete to communicate with server side and URIs for pointing to the resources. The data comes back in form of JSON."
+      },
+      {
+        "title": "SQL Postgresql Knex",
+        "content": "A database system, a standard langauge for storing, manipulating and retreiving data, a database query builder for Node.js."
+      },
+      {
+        "title": "Jest Redis",
+        "content": "Javascript testing frame work. In-memory key-values database."
+      },
+      {
+        "title": "Passport",
+        "content": "Authentication middleware for Node.js, auth methods include local, facebook and google strategies"
+      }
+    ]
+  }
 ]
